@@ -1,0 +1,33 @@
+{
+    "Quote": {
+        "id": { 
+          "number": {} 
+        },
+        "body": {
+            "string": {}
+        },
+        "author": {
+            "string": {}
+        },
+        "tags": {
+            "array": {
+                "string": [
+                    "#love",
+                    "#smart",
+                    "#animals",
+                    "#IT",
+                    "#travels",
+                    "#peace",
+                    "#education",
+                    "#StopWar",
+                    "#StandWithUkraine",
+                    "#StopWar"
+                ]
+            }
+        },
+        "date": {
+            "string": {}
+        }
+    }
+  }
+
